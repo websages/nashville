@@ -39,7 +39,7 @@
 
 #### Places to Stay:  Hotels
 
- - [The Hutton](http://www.huttonhotel.com/) - A nice hip hotel, we hear **great** things from people who've stayed there. Check it out. 
+ - [The Hutton](http://www.huttonhotel.com/) - A nice hip hotel, we hear **great** things from people who've stayed there. Check it out.
  - [The Opryland Hotel](http://www.marriott.com/hotels/travel/bnago-gaylord-opryland-resort-and-convention-center/) - out towards the airport, so not really downtown or anything, but this place is UNREAL.  Worth a visit even if you don't stay there.  It's got a fucking rainforest inside.
  - :tophat: [Hermitage Hotel](http://www.thehermitagehotel.com/southern-living.aspx) - this place is out of hand, also about a block from the Nashville office space.
  - :tophat: [Hotel Indigo](http://www.hotelindigo.com/hotels/us/en/nashville/bnaus/hoteldetail) - I've heard great things about it, it's right downtown, so maybe 3 blocks from the office.
