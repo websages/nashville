@@ -49,7 +49,7 @@
  - [Marriott Vanderbilt](http://www.hotels.com/hotel/details.html?pa=14&pn=1&ps=14&tab=description&destinationId=1489624&searchDestination=Nashville&hotelId=198032&arrivalDate=05-13-14&departureDate=05-17-14&rooms%5B0%5D.numberOfAdults=2&roomno=1&validate=false&previousDateful=false&reviewOrder=date_newest_first)
  - [Holiday Inn Vanderbilt](http://www.hotels.com/hotel/details.html?pa=15&pn=1&ps=15&tab=description&destinationId=1489624&searchDestination=Nashville&hotelId=108301&arrivalDate=05-13-14&departureDate=05-17-14&rooms%5B0%5D.numberOfAdults=2&roomno=1&validate=false&previousDateful=false&reviewOrder=date_newest_first)
  - [Hampton Inn Vanderbilt](http://www.expedia.com/Nashville-Hotels-Hampton-Inn-Suites-Vanderbilt-Elliston-Place.h59729.Hotel-Information?chkin=05%2F13%2F2014&chkout=05%2F17%2F2014&rm1=a2&rm2=a2&rm3=a2&rm4=a2&rm5=a2&hwrqCacheKey=e7c4de3e-51ea-417a-90f4-38067d4e7947HWRQ1397061185769&c=905c0bd0-fce8-4b91-b6f1-00002ae50fac&)
- 
+
 
 ### Eating
 
@@ -101,13 +101,14 @@
 
  - [Barista Parlor][baristaparlor] -- super super slow ass service. They don't roast, they bring in good coffees from outside Nashville; great ambience, hip-as-fuck, good internet, small but good food menu; no decaff
  - [High Garden Teas][highgarden] -- actually, a pretty fucking amazing tea shop; you'll find their teas all over town now, too
+ - [Steadfast Coffee][steadfast] -- Germantown, a couple of blocks from [Butchertown Hall][butchertown]. The coffee is good, the ambience is good, decent place for a chill hack. On the back side of the Skillery building, but don't hold that against them. Bring your Imogene+Willie jeans and rockabilly haircuts.
  - [Frothy Monkey][frothy] -- long a staple of the 12South area, the newly opened downtown location is a block away from the GitHub coworking space, stays open til 9pm (10pm on friday/saturday), and is easily the best coffee shop downtown. Oh, also decent beers, wine, and cocktails. :cocktail:
  - [Crema][crema] -- decent coffee, near Emma HQ
  - [Cafe Coco's][cafecoco] -- 24x7 coffee, tea, beer (well, during legal hours), food, etc.  Indoors and outdoors, exceedingly diverse clientelle, internet can be shitty; take no pride in / give zero fucks about crafting a latte, but they roast their own coffee.  My personal favorite for getting away and hacking.
- - [J&J's Market & Cafe][jjs] -- Vanderbilt area, decent-ish coffee, good tea selection, quiet, good atmosphere, decent internet, only small snack food (go next door to Noshville to eat).
+ - [J&J's Market & Cafe][jjs] -- Vanderbilt area, decent-ish coffee, good tea selection, quiet, good atmosphere, decent internet, only small snack food (go next door to Noshville to eat). It's days are numbered, due to construction. :crying_cat_face:
  - [Ugly Mugs][uglymugs] -- decent internet, decent-ish coffee, nice atmosphere; next to Jeni's ice cream (zomg.)
  - [Portland Brew][portlandbrew] (multiple locations) -- decent coffee; ~~the 12South location is managed by Sra (pronounced "shraa"), who's a friend and former neighbor of @rick -- tell Sra I sent ya.~~ Sorry, bro, Sra split. :dash:
- - [Red Bicycle][redbicycle] -- If you're over in Germantown this is a coffee shop. Not highly recommended, but passable in a tight spot.
+ - [Red Bicycle][redbicycle] -- If you're over in Germantown this is a coffee shop. Not highly recommended, but passable in a tight spot. Go to Steadfast instead.
  - [Dunn Brothers][dunnbros] -- an ok downtown coffee shop, about half a block from the GitHub co-working office; see [Frothy Monkey][frothy] above instead.
 
 
@@ -276,3 +277,4 @@
 [butchertown]: http://www.butchertownhall.com/
 [gruhns]: http://guitars.com/
 [oprylandhotel]: https://www.google.com/search?q=opryland+hotel&es_sm=119&source=lnms&tbm=isch&sa=X&ei=V3SIVa6POojngwSUzoLYAQ&ved=0CAgQ_AUoAg&biw=1164&bih=616
+[steadfast]: http://steadfast.coffee/
