@@ -161,6 +161,9 @@
  - [Brown's Diner][brownsdiner] -- yeah, you could eat there, but mostly it's a dive that exists because of atmosphere, also good live music
  - there are a ton of bars in East Nashville (Nashville's answer to Williamsburg, with numerous transplants therefrom); ping us if you're headed to the east side of the river ([Holland House][hollandhouse], [Family Wash][familywash], [the 5 Spot][5spot] ([calendar][5spotcal]), hell, I don't even know where the cool kids go any more, but some of our crew know...)
 
+**post-drinking**
+ - [Recovery Room][hangover]: To relieve the negative effects of overindulgence.
+
 
 [rick]: https://team.githubapp.com/rick
 [jfryman]: https://team.githubapp.com/jfryman
@@ -278,3 +281,4 @@
 [gruhns]: http://guitars.com/
 [oprylandhotel]: https://www.google.com/search?q=opryland+hotel&es_sm=119&source=lnms&tbm=isch&sa=X&ei=V3SIVa6POojngwSUzoLYAQ&ved=0CAgQ_AUoAg&biw=1164&bih=616
 [steadfast]: http://steadfast.coffee/
+[hangover]: http://www.recoveryroomnashville.com/hangover-recovery.html
