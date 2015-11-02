@@ -30,11 +30,9 @@
 
 #### Places to Stay:  AirBNB
 
- - [historic downtown loft with pool](https://www.airbnb.com/rooms/1276989) - this shit is sick.  We used it for [the abilities hack house](https://github.com/github/summits/issues/37) and it was AMAAAAZING.
- - [Big Modern (Germantown)](https://www.airbnb.com/rooms/1901147) - another one we used for the Abilities Hack House, also a pretty awesome place.
  - [4bd bungalow](https://www.airbnb.com/rooms/2687266) - This was a quite awesome stay for the [Puppet 3 Hack House](https://github.com/github/summits/issues/40).  Get on this level.
  - [the tour bus(!)](https://www.airbnb.com/rooms/2410308)
- - [an Apartment in the Cumberland](https://www.airbnb.com/rooms/1901147) - **literally** across the street from the office, you lazy fucker.
+ - [an Apartment in the Cumberland](https://www.airbnb.com/rooms/5846583) - **literally** across the street from the office, you lazy fucker.
  - and tons more.
 
 #### Places to Stay:  Hotels
