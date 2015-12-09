@@ -102,7 +102,7 @@
  - [High Garden Teas][highgarden] -- actually, a pretty fucking amazing tea shop; you'll find their teas all over town now, too
  - [Steadfast Coffee][steadfast] -- Germantown, a couple of blocks from [Butchertown Hall][butchertown]. The coffee is good, the ambience is good, decent place for a chill hack. On the back side of the Skillery building, but don't hold that against them. Bring your Imogene+Willie jeans and rockabilly haircuts.
  - [Frothy Monkey][frothy] -- long a staple of the 12South area, the newly opened downtown location is a block away from the GitHub coworking space, stays open til 9pm (10pm on friday/saturday), and is easily the best coffee shop downtown. Oh, also decent beers, wine, and cocktails. :cocktail:
- - [Crema][crema] -- decent coffee, near Emma HQ
+ - [Crema][crema] -- decent coffee, terrible wi-fi. Near [Emma](emma) HQ. You might as well get Crema coffee at [Pinewoodsocial][pinewoodsocial], you can hack there in relative peace.
  - [Cafe Coco's][cafecoco] -- 24x7 coffee, tea, beer (well, during legal hours), food, etc.  Indoors and outdoors, exceedingly diverse clientelle, internet can be shitty; take no pride in / give zero fucks about crafting a latte, but they roast their own coffee.  My personal favorite for getting away and hacking.
  - [J&J's Market & Cafe][jjs] -- Vanderbilt area, decent-ish coffee, good tea selection, quiet, good atmosphere, decent internet, only small snack food (go next door to Noshville to eat). It's days are numbered, due to construction. :crying_cat_face:
  - [Ugly Mugs][uglymugs] -- decent internet, decent-ish coffee, nice atmosphere; next to Jeni's ice cream (zomg.)
@@ -281,3 +281,4 @@
 [oprylandhotel]: https://www.google.com/search?q=opryland+hotel&es_sm=119&source=lnms&tbm=isch&sa=X&ei=V3SIVa6POojngwSUzoLYAQ&ved=0CAgQ_AUoAg&biw=1164&bih=616
 [steadfast]: http://steadfast.coffee/
 [hangover]: http://www.recoveryroomnashville.com/hangover-recovery.html
+[emma]: (http://myemma.com/)
