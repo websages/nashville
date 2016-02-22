@@ -280,5 +280,5 @@
 [gruhns]: http://guitars.com/
 [oprylandhotel]: https://www.google.com/search?q=opryland+hotel&es_sm=119&source=lnms&tbm=isch&sa=X&ei=V3SIVa6POojngwSUzoLYAQ&ved=0CAgQ_AUoAg&biw=1164&bih=616
 [steadfast]: http://steadfast.coffee/
-[hangover]: http://www.recoveryroomnashville.com/hangover-recovery.html
+[hangover]: http://www.recoveryroomnashville.com/hangover/
 [emma]: (http://myemma.com/)
