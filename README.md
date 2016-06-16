@@ -56,7 +56,7 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
 
 #### (non-fancy)
 
- - [Hattie B's][hattiebs] -- Hot Chicken.  You might have to wait, but it's worth it.  Near [J-J's][jjs] & [Noshville][noshville].  **update**: There's a second location now on the west si-ide: [map](https://goo.gl/maps/PxBwL)
+ - [Hattie B's][hattiebs] -- Hot Chicken.  You might have to wait, but it's worth it.  Near [J-J's][jjs] & [The Broadway Brewhouse][broadwaybrewhouse].  **update**: There's a second location now on the west si-ide: [map](https://goo.gl/maps/PxBwL)
  - [Monell's][monells] -- all-you-can-eat family-style Southern food, sitting with strangers at big tables passing food.  Excellent food, pretty cheap, you will not leave hungry.  Great idea for a weekday lunch.  Gets busy for dinner and really busy the weekends
  - [Jeni's Ice Cream][jenisicecream] -- east-side, deemed some of the best ice cream in America by various reckoners; this is the sibling of the original Columbus establishment.  There's a coffee shop ([Ugly Mugs][uglymugs]) right next door, so that's cool.
  - [Mayo's Fried Pies and Mahalia Jackson's Chicken](http://www.southernfoodways.org/interview/mayos-fried-pies-and-mahalia-jacksons-chicken/) -- for real. As I understand it, he actually bought the name rights from the restaurant back when it went under.  It's a little mobile-looking shack down near the interstate on Jefferson Street.  We should probably go if we can discern when it's open.  [yelp](http://www.yelp.com/biz/mayos-mahalia-chicken-outlet-nashville)
@@ -75,7 +75,6 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
  - [Jack's BBQ][jacksbbq] -- there's one on lower Broadway that's fine; the one out on Trinity Lane is the mother-ship and deserves respect; a new one on Charlotte Avenue make great bbq too.
  - [Butchertown Hall][butchertown] -- Solid beer selection, nice ambience, good place to hang out and eat meats and drank :beers:.
  - [Hog Heaven][hogheaven] -- solid local bbq next door to the Springwater Supper Club (see Drinking), looks like deserves to be right next door to the Springwater; check the hours
- - [Noshville][noshville] -- New York-style deli restaurant, next to J-J's Market & Cafe (see coffee shops below), good eats.
  - both [The Gerst Haus][gerst] and ~~[Vienerfest][vienerfest] (not kidding)~~ have solid German food and beers
  - [the Hermitage Cafe][hermitagecafe] -- late night shithole for when you're trying to not go home yet
  - [Mary's Open Pit BBQ][marysbbq] -- worth stopping if you're in on Jefferson Street
@@ -155,7 +154,7 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
  - [Mickey's Tavern][mickeystavern] -- hole-in-the-wall -ish East Nashville venue
  - ~~[The Stone Fox][stonefox] ([music calendar][stonefoxcal])-- westside drinking and food establishment -- the [March 2014 Drinkup](https://github.com/blog/1798-nashville-training-and-drinkup) venue (ping @rick if you go there -- you can park and/or sleep in his yard)~~. Closed in Feb 2016. 
  - [Betty's][bettys] -- West-side. during the day this is a 70's era truck-driver / burned out West Nashville hag bar; cigarettes hanging off lower lips. At night it's usually punk kids and noise bands. Don't expect craft beers. Has a nice little enclosed outdoor nook; if you need to roll one, pull the plate out from under the back picnic table.
- - [The Broadway Brewhouse](http://broadwaybrewhouse.net/brewhouse-midtown/) - if you hear someone say "the brewhouse" or "BBH", this is what they mean. There are multiple locations, but we always mean the midtown one, not the downtown one.  Unless there's kind of a long exasperated discussion about it being close to something and we might as well then.  Anyway, the midtown one was the cradle of Nashville tech drinking; the installation of "The Awning" was the beginning of its fall from grace. (The awning has its own belligerent twitter account: [@bbhmidtownawnin](https://twitter.com/bbhmidtownawnin))
+ - [The Broadway Brewhouse][broadwaybrewhouse] - if you hear someone say "the brewhouse" or "BBH", this is what they mean. There are multiple locations, but we always mean the midtown one, not the downtown one.  Unless there's kind of a long exasperated discussion about it being close to something and we might as well then.  Anyway, the midtown one was the cradle of Nashville tech drinking; the installation of "The Awning" was the beginning of its fall from grace. (The awning has its own belligerent twitter account: [@bbhmidtownawnin](https://twitter.com/bbhmidtownawnin))
  - [Corsair distillery][corsair] / tasting room / tap room -- limited hours; the RIMBoy is no longer there; probably dead to us.
  - the [Springwater Supper Club][springwater] -- complete shithole dive bar, near Centennial Park, the [Parthenon][parthenon], and [Rotier's][rotiers]
  - [Santa's Pub][santaspub] -- shithole dive that's definitely worth a visit
@@ -178,6 +177,7 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
 [bcycle]: https://nashville.bcycle.com/
 [parthenon]: http://www.nashville.gov/Parks-and-Recreation/Parthenon.aspx
 [hattiebs]: http://www.hattieb.com/
+[broadwaybrewhouse]: http://broadwaybrewhouse.net/brewhouse-midtown
 [princeschicken]: http://www.yelp.com/biz/princes-hot-chicken-shack-nashville
 [boltons]: http://www.yelp.com/biz/boltons-spicy-chicken-and-fish-nashville
 [stationinn]: http://stationinn.com/
