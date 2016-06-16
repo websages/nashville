@@ -56,7 +56,7 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
 
 #### (non-fancy)
 
- - [Hattie B's][hattiebs] -- Hot Chicken.  You might have to wait, but it's worth it.  Near [J-J's][jjs] & [Broadway Brew House][broadwaybrewhouse].  **update**: There's a second location now on the west si-ide: [map](https://goo.gl/maps/PxBwL)
+ - [Hattie B's][hattiebs] -- Hot Chicken.  You might have to wait, but it's worth it.  Near [J-J's][jjs] & [The Broadway Brewhouse][broadwaybrewhouse].  **update**: There's a second location now on the west si-ide: [map](https://goo.gl/maps/PxBwL)
  - [Monell's][monells] -- all-you-can-eat family-style Southern food, sitting with strangers at big tables passing food.  Excellent food, pretty cheap, you will not leave hungry.  Great idea for a weekday lunch.  Gets busy for dinner and really busy the weekends
  - [Jeni's Ice Cream][jenisicecream] -- east-side, deemed some of the best ice cream in America by various reckoners; this is the sibling of the original Columbus establishment.  There's a coffee shop ([Ugly Mugs][uglymugs]) right next door, so that's cool.
  - [Mayo's Fried Pies and Mahalia Jackson's Chicken](http://www.southernfoodways.org/interview/mayos-fried-pies-and-mahalia-jacksons-chicken/) -- for real. As I understand it, he actually bought the name rights from the restaurant back when it went under.  It's a little mobile-looking shack down near the interstate on Jefferson Street.  We should probably go if we can discern when it's open.  [yelp](http://www.yelp.com/biz/mayos-mahalia-chicken-outlet-nashville)
