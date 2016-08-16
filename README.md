@@ -80,7 +80,7 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
  - [Mary's Open Pit BBQ][marysbbq] -- worth stopping if you're in on Jefferson Street
  - I'm sorry to inform that "The Crunkest Fish in Town" (aka Eastside Fish) has apparently closed, though we should double-check, as the rumor mill indicated a non-zero chance of re-opening at some point.
  - [Urban Grub][urbangrub] -- good cocktails, slightly better than average food; a nice joint
- - [Burger Up][burgerup] -- (12South) lots of different kinds of burgers and in a nice atmosphere
+ - [Burger Up][burgerup] -- (12South) lots of different kinds of burgers and in a nice atmosphere -- now a second location in Five Points (east nashville)
  - [Edly's BBQ][edlysbbq] -- solid 12South-area bbq joint; newer and less gritty than one might expect from good BBQ but the food is solid
  - *that raspas stand on Gallatin in Madison* -- no, seriously. They've got raspas, [piña loca as big as your kid](http://hdrive.websages.com/rick/as_big_as_yer_kid.jpg), bags full of doritos cut in half with awesome shit down in them, whack ass big cupfuls of mango craziness. You gotta go to Madison, tho. 310 South Gallatin Rd.
  - [Biscuit Love][biscuitlove] -- Gulch joint that serves Bonuts -- fried biscuit dough topped with Lemon Mascarpone Cream, and hot chicken biscuits topped with honey and berry compute.
@@ -97,6 +97,7 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
  - [Silo][silo] -- At the bottom of Germantown, seems legit.
  - [Etch][etch] -- Deb is the chef.  Go for it.
  - [Husk][husk] -- Skip it. Not that great, evidently.  Very hype. Such tourist.
+ - [Butcher & Bee][butcherandbee] -- excellent food on the east side
 
 #### Coffee / Hacking ( / tea )
 
@@ -161,6 +162,7 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
  - there are a number of local micro- and otherwise-breweries that have taprooms or brewpubs: [Black Abbey][blackabbey], [Tennessee Brew Works][tnbrew], [blackstone][blackstone], [yazoo][yazoo], ~~[bosco's][boscos]~~ (closed :cry:), [jackalope][jackalope], Fat Bottom, etc. -- probably recommended in my decreasing order of opinion of beer quality there
  - [Brown's Diner][brownsdiner] -- yeah, you could eat there, but mostly it's a dive that exists because of atmosphere, also good live music
  - there are a ton of bars in East Nashville (Nashville's answer to Williamsburg, with numerous transplants therefrom); ping us if you're headed to the east side of the river ([Holland House][hollandhouse], [Family Wash][familywash], [the 5 Spot][5spot] ([calendar][5spotcal]), hell, I don't even know where the cool kids go any more, but some of our crew know...)
+ - [East Nashville Beer Works][eastnashbeerworks] -- Nashville's own rimboy brewing at last. Beer mecca, tasty pizza, arepas, and other tasty food.
 
 **post-drinking**
  - [Recovery Room][hangover]: To relieve the negative effects of overindulgence.
@@ -285,3 +287,5 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
 [steadfast]: http://steadfast.coffee/
 [hangover]: http://www.recoveryroomnashville.com/hangover/
 [emma]: (http://myemma.com/)
+[butcherandbee]: (http://butcherandbee.com/)
+[eastnashbeerworks]: (http://www.eastnashbeerworks.com/)
