@@ -54,6 +54,9 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
 
 ### Eating
 
+### Maps
+ - [Hot Chicken Map](https://goo.gl/maps/qeiGcZv8KhQ2)
+
 #### (non-fancy)
 
  - [Hattie B's][hattiebs] -- Hot Chicken.  You might have to wait, but it's worth it.  Near [J-J's][jjs] & [The Broadway Brewhouse][broadwaybrewhouse].  **update**: There's a second location now on the west si-ide: [map](https://goo.gl/maps/PxBwL)
