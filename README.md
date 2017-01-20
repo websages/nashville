@@ -210,6 +210,7 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
 [urbangrub]: http://urbangrub.net/
 [burgerup]: http://www.burger-up.com/
 [edlysbbq]: http://edleysbbq.com/
+[biscuitlove]: http://biscuitlove.com/menu/
 [baristaparlor]: http://www.baristaparlor.com/
 [cafecoco]: http://www.cafecoco.com/
 [frothy]: http://frothymonkey.com/
