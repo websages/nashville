@@ -101,6 +101,7 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
  - [Etch][etch] -- Deb is the chef.  Go for it.
  - [Husk][husk] -- Skip it. Not that great, evidently.  Very hype. Such tourist.
  - [Butcher & Bee][butcherandbee] -- excellent food on the east side
+ - [Treehouse][treehousenashville] -- in east nashville, quality farm to table joint that does apps, small plates, and entrees meant for sharing... in a giant treehouse. Great outdoor space, but consider reservations for the limited seating.
 
 #### Coffee / Hacking ( / tea )
 
@@ -293,3 +294,4 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
 [emma]: (http://myemma.com/)
 [butcherandbee]: (http://butcherandbee.com/)
 [eastnashbeerworks]: (http://www.eastnashbeerworks.com/)
+[treehousenashville]: (https://treehousenashville.com/)
