@@ -10,8 +10,7 @@
 * Aziz Shamim ([github](https://github.com/azizshamim) - [twitter](https://twitter.com/azizshamim))
 * James White ([github](https://github.com/jameswhite) - [twitter](https://twitter.com/james_s_white))
 
-Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368), is located downtown, and central to many things you'd find yourself wanting to do. Come visit anytime. Here you'll find everything you need to get work done, have a central place to meetup, and interact with some cool new friends.
-
+Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and central to many things you'd find yourself wanting to do. Come visit anytime. Here you'll find everything you need to get work done, have a central place to meet-up, and interact with some cool new friends.
 
 #### Tips
 
@@ -87,6 +86,7 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
  - [Edly's BBQ][edlysbbq] -- solid 12South-area bbq joint; newer and less gritty than one might expect from good BBQ but the food is solid
  - *that raspas stand on Gallatin in Madison* -- no, seriously. They've got raspas, [piña loca as big as your kid](http://hdrive.websages.com/rick/as_big_as_yer_kid.jpg), bags full of doritos cut in half with awesome shit down in them, whack ass big cupfuls of mango craziness. You gotta go to Madison, tho. 310 South Gallatin Rd.
  - [Biscuit Love][biscuitlove] -- Gulch joint that serves Bonuts -- fried biscuit dough topped with Lemon Mascarpone Cream, and hot chicken biscuits topped with honey and berry compute.
+ - [Rosepepper][rosepepper] has great top-shelf margaritas and burritos. It's on a bus line (Route 4).
 
 #### More fancier eats (heavy on the Germantown tip)
 
@@ -111,7 +111,7 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
  - [Frothy Monkey][frothy] -- long a staple of the 12South area, the newly opened downtown location is a block away from the GitHub coworking space, stays open til 9pm (10pm on friday/saturday), and is easily the best coffee shop downtown. Oh, also decent beers, wine, and cocktails. :cocktail:
  - [Crema][crema] -- decent coffee, terrible wi-fi. Near [Emma](emma) HQ. You might as well get Crema coffee at [Pinewoodsocial][pinewoodsocial], you can hack there in relative peace.
  - [Cafe Coco's][cafecoco] -- 24x7 coffee, tea, beer (well, during legal hours), food, etc.  Indoors and outdoors, exceedingly diverse clientelle, internet can be shitty; take no pride in / give zero fucks about crafting a latte, but they roast their own coffee.  My personal favorite for getting away and hacking.
- - [J&J's Market & Cafe][jjs] -- Vanderbilt area, decent-ish coffee, good tea selection, quiet, good atmosphere, decent internet, only small snack food (go next door to Noshville to eat). It's days are numbered, due to construction. :crying_cat_face:
+ - [J&J's Market & Cafe][jjs] -- Vanderbilt area, decent-ish coffee, good tea selection, quiet, good atmosphere, decent internet, only small snack food (go next door to Noshville to eat).
  - [Ugly Mugs][uglymugs] -- decent internet, decent-ish coffee, nice atmosphere; next to Jeni's ice cream (zomg.)
  - [Portland Brew][portlandbrew] (multiple locations) -- decent coffee; ~~the 12South location is managed by Sra (pronounced "shraa"), who's a friend and former neighbor of @rick -- tell Sra I sent ya.~~ Sorry, bro, Sra split. :dash:
  - [Red Bicycle][redbicycle] -- If you're over in Germantown this is a coffee shop. Not highly recommended, but passable in a tight spot. Go to Steadfast instead.
@@ -126,9 +126,9 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
  - if you're interested in old-time fiddle music, ping @rick and see where the current Old Time Jam is hanging out; usually a Wednesday night thing, probably at [Charlie Bob's][charliebobs]
  - Jack White's record label [Third Man Records][thirdman] has a pretty amazing hq / venue / record store.
  - [Exit/In][exitin] ([calendar][exitincal]), [The End][theend] ([calendar][theendcal]) -- Elliston Place-area rock venues.  Everyone who's anyone has been here
- - [Cannery Ballroom][cannery] ([calendar][cannerycal]) / [Mercy Lounge][mercylounge] ([calendar][mercyloungecal]) -- modern/current music, check [the Scene][nashvillescene] for current shows, etc.
+ - [Cannery Ballroom][cannery] ([calendar][cannerycal]) / [Mercy Lounge][mercylounge] ([calendar][mercyloungecal]) -- modern/current music, check [The Scene][nashvillescene] for current shows, etc.
  - [12 South Taproom][taproom] -- it's a bar with good food, but they have really good live music from time to time; [Kenny Vaughan][kennyv] usually plays Monday nights, and he will blow your fucking mind
- - [the bluebird cafe][bluebird] -- some people like to go here; @rick thinks it's a singer-songwriter nightmare; stop watching that "Nashville" show on television, please
+ - [The Bluebird Cafe][bluebird] -- some people like to go here; @rick thinks it's a singer-songwriter nightmare; stop watching that "Nashville" show on television, please
 
 
 #### Sights
@@ -294,4 +294,5 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
 [emma]: (http://myemma.com/)
 [butcherandbee]: (http://butcherandbee.com/)
 [eastnashbeerworks]: (http://www.eastnashbeerworks.com/)
+[rosepepper]: (http://www.rosepepper.com/)
 [treehousenashville]: (https://treehousenashville.com/)
