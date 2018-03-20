@@ -101,6 +101,7 @@ Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and
  - [Etch][etch] -- Deb is the chef.  Go for it.
  - [Husk][husk] -- Skip it. Not that great, evidently.  Very hype. Such tourist.
  - [Butcher & Bee][butcherandbee] -- excellent food on the east side
+ - [Treehouse][treehousenashville] -- in east nashville, quality farm to table joint that does apps, small plates, and entrees meant for sharing... in a giant treehouse. Great outdoor space, but consider reservations for the limited seating.
 
 #### Coffee / Hacking ( / tea )
 
@@ -294,3 +295,4 @@ Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and
 [butcherandbee]: (http://butcherandbee.com/)
 [eastnashbeerworks]: (http://www.eastnashbeerworks.com/)
 [rosepepper]: (http://www.rosepepper.com/)
+[treehousenashville]: (https://treehousenashville.com/)
