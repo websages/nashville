@@ -58,7 +58,7 @@ Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and
 
 #### (non-fancy)
 
- - [Hattie B's][hattiebs] -- Hot Chicken.  You might have to wait, but it's worth it.  Near [J-J's][jjs] & [The Broadway Brewhouse][broadwaybrewhouse].  **update**: There's a second location now on the west si-ide: [map](https://goo.gl/maps/PxBwL)
+ - [Hattie B's][hattiebs] -- Hot Chicken.  You might have to wait, but it's worth it.  Near [J-J's][jjs] & [The Broadway Brewhouse][broadwaybrewhouse].  **update**: There's a second location now on the west si-ide: [map](https://goo.gl/maps/PxBwL) and also a location now off 8th Ave in Melrose [map](https://goo.gl/maps/zXvjM53SxSE2)
  - [Monell's][monells] -- all-you-can-eat family-style Southern food, sitting with strangers at big tables passing food.  Excellent food, pretty cheap, you will not leave hungry.  Great idea for a weekday lunch.  Gets busy for dinner and really busy the weekends
  - [Jeni's Ice Cream][jenisicecream] -- east-side, deemed some of the best ice cream in America by various reckoners; this is the sibling of the original Columbus establishment.  There's a coffee shop ([Ugly Mugs][uglymugs]) right next door, so that's cool.
  - [Mayo's Fried Pies and Mahalia Jackson's Chicken](http://www.southernfoodways.org/interview/mayos-fried-pies-and-mahalia-jacksons-chicken/) -- for real. As I understand it, he actually bought the name rights from the restaurant back when it went under.  It's a little mobile-looking shack down near the interstate on Jefferson Street.  We should probably go if we can discern when it's open.  [yelp](http://www.yelp.com/biz/mayos-mahalia-chicken-outlet-nashville)
@@ -70,10 +70,11 @@ Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and
  - [Woodland's][woodlands] -- really solid South Indian vegetarian food, the lunch buffet is great
  - [Prince's Hot Chicken][princeschicken] -- the original :fire: :chicken:
  - [Bolton's Hot Chicken and Fish][boltons] -- mmmmmmmm.  Don't expect to dine in.
+ - [Pepperfire][pepperfire] -- a sweeter variety of :fire: :chicken: Small dining room, up off Gallatin.
  - [Party Fowl][partyfowl] -- looking for :fire: :chicken: on Sunday / late night? Try here: the birds are good, the beers are good, and it's centrally located.
  - [Rotier's][rotiers] -- hole-in-the-wall old-fashioned meat & 3; wood panelling, also has beer.
  - [Pinewood Social][pinewoodsocial] -- eats & drinks, hipsters galore, maybe a coffee shop by now, also a small bowling alley; the comestibles are good
- - ~~[Otaku South][otaku]~~ -- **on hiatus until fall 2015, sorry** good ramen.  It may well be only appearing periodically at a pop-up location.  [Yelp listing][otakuyelp]
+ - [Otaku][otaku] -- **now in the Gulch and pop up in East Nashville** good ramen. Gulch location here to stay, but pop up is back in East Nashville. [Yelp listing][otakuyelp]
  - [Jack's BBQ][jacksbbq] -- there's one on lower Broadway that's fine; the one out on Trinity Lane is the mother-ship and deserves respect; a new one on Charlotte Avenue make great bbq too.
  - [Butchertown Hall][butchertown] -- Solid beer selection, nice ambience, good place to hang out and eat meats and drank :beers:.
  - [Hog Heaven][hogheaven] -- solid local bbq next door to the Springwater Supper Club (see Drinking), looks like deserves to be right next door to the Springwater; check the hours
@@ -83,7 +84,7 @@ Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and
  - I'm sorry to inform that "The Crunkest Fish in Town" (aka Eastside Fish) has apparently closed, though we should double-check, as the rumor mill indicated a non-zero chance of re-opening at some point.
  - [Urban Grub][urbangrub] -- good cocktails, slightly better than average food; a nice joint
  - [Burger Up][burgerup] -- (12South) lots of different kinds of burgers and in a nice atmosphere -- now a second location in Five Points (east nashville)
- - [Edly's BBQ][edlysbbq] -- solid 12South-area bbq joint; newer and less gritty than one might expect from good BBQ but the food is solid
+ - [Edly's BBQ][edlysbbq] -- solid 12South-area bbq joint; newer and less gritty than one might expect from good BBQ but the food is solid - Locations now in East Nashville and Sylvan Park
  - *that raspas stand on Gallatin in Madison* -- no, seriously. They've got raspas, [piña loca as big as your kid](http://hdrive.websages.com/rick/as_big_as_yer_kid.jpg), bags full of doritos cut in half with awesome shit down in them, whack ass big cupfuls of mango craziness. You gotta go to Madison, tho. 310 South Gallatin Rd.
  - [Biscuit Love][biscuitlove] -- Gulch joint that serves Bonuts -- fried biscuit dough topped with Lemon Mascarpone Cream, and hot chicken biscuits topped with honey and berry compute.
  - [Rosepepper][rosepepper] has great top-shelf margaritas and burritos. It's on a bus line (Route 4).
@@ -105,16 +106,16 @@ Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and
 
 #### Coffee / Hacking ( / tea )
 
- - [Barista Parlor][baristaparlor] -- super super slow ass service. They don't roast, they bring in good coffees from outside Nashville; great ambience, hip-as-fuck, good internet, small but good food menu; no decaff
+ - [Barista Parlor][baristaparlor] -- super super slow ass service. They don't roast, they bring in good coffees from outside Nashville; great ambience, hip-as-fuck, good internet, small but good food menu; no decaf; super fucking expensive too.
  - [High Garden Teas][highgarden] -- actually, a pretty fucking amazing tea shop; you'll find their teas all over town now, too
  - [Steadfast Coffee][steadfast] -- Germantown, a couple of blocks from [Butchertown Hall][butchertown]. The coffee is good, the ambience is good, decent place for a chill hack. On the back side of the Skillery building, but don't hold that against them. Bring your Imogene+Willie jeans and rockabilly haircuts.
- - [Frothy Monkey][frothy] -- long a staple of the 12South area, the newly opened downtown location is a block away from the GitHub coworking space, stays open til 9pm (10pm on friday/saturday), and is easily the best coffee shop downtown. Oh, also decent beers, wine, and cocktails. :cocktail:
+ - [Frothy Monkey][frothy] -- long a staple of the 12South area, the newly opened downtown location is a block away from the GitHub coworking space, stays open til 9pm (10pm on friday/saturday), and is easily the best coffee shop downtown. Oh, also decent beers, wine, and cocktails. Also a location off 8th Ave at Grimey's and another location in the Nations :cocktail:
  - [Crema][crema] -- decent coffee, terrible wi-fi. Near [Emma](emma) HQ. You might as well get Crema coffee at [Pinewoodsocial][pinewoodsocial], you can hack there in relative peace.
  - [Cafe Coco's][cafecoco] -- 24x7 coffee, tea, beer (well, during legal hours), food, etc.  Indoors and outdoors, exceedingly diverse clientelle, internet can be shitty; take no pride in / give zero fucks about crafting a latte, but they roast their own coffee.  My personal favorite for getting away and hacking.
  - [J&J's Market & Cafe][jjs] -- Vanderbilt area, decent-ish coffee, good tea selection, quiet, good atmosphere, decent internet, only small snack food (go next door to Noshville to eat).
  - [Ugly Mugs][uglymugs] -- decent internet, decent-ish coffee, nice atmosphere; next to Jeni's ice cream (zomg.)
  - [Portland Brew][portlandbrew] (multiple locations) -- decent coffee; ~~the 12South location is managed by Sra (pronounced "shraa"), who's a friend and former neighbor of @rick -- tell Sra I sent ya.~~ Sorry, bro, Sra split. :dash:
- - [Red Bicycle][redbicycle] -- If you're over in Germantown this is a coffee shop. Not highly recommended, but passable in a tight spot. Go to Steadfast instead.
+ - [Red Bicycle][redbicycle] -- If you're over in Germantown this is a coffee shop. ~~Not highly recommended~~ Not terrible, but passable in a tight spot. Go to Steadfast instead.
  - [Dunn Brothers][dunnbros] -- an ok downtown coffee shop, about half a block from the GitHub co-working office; see [Frothy Monkey][frothy] above instead.
 
 
@@ -129,6 +130,7 @@ Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and
  - [Cannery Ballroom][cannery] ([calendar][cannerycal]) / [Mercy Lounge][mercylounge] ([calendar][mercyloungecal]) -- modern/current music, check [The Scene][nashvillescene] for current shows, etc.
  - [12 South Taproom][taproom] -- it's a bar with good food, but they have really good live music from time to time; [Kenny Vaughan][kennyv] usually plays Monday nights, and he will blow your fucking mind
  - [The Bluebird Cafe][bluebird] -- some people like to go here; @rick thinks it's a singer-songwriter nightmare; stop watching that "Nashville" show on television, please
+ - [Marathon Music Works][marathon] -- Good place for shows, music is varied, you can catch almost anything there. 
 
 
 #### Sights
@@ -296,3 +298,5 @@ Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and
 [eastnashbeerworks]: (http://www.eastnashbeerworks.com/)
 [rosepepper]: (http://www.rosepepper.com/)
 [treehousenashville]: (https://treehousenashville.com/)
+[marathon]: (https://www.marathonmusicworks.com/)
+[pepperfire]: (https://www.pepperfirehotchicken.com/)
