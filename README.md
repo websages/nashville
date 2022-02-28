@@ -75,13 +75,14 @@ Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and
  - [Rotier's][rotiers] -- hole-in-the-wall old-fashioned meat & 3; wood panelling, also has beer.
  - [Pinewood Social][pinewoodsocial] -- eats & drinks, hipsters galore, maybe a coffee shop by now, also a small bowling alley; the comestibles are good
  - [Otaku][otaku] -- **now in the Gulch and pop up in East Nashville** good ramen. Gulch location here to stay, but pop up is back in East Nashville. [Yelp listing][otakuyelp]
+ - [Two Ten Jack][twotenjack] -- good izakaya on the eastside. good ramen, even better yakitori. decent cocktails on tap
  - [Jack's BBQ][jacksbbq] -- there's one on lower Broadway that's fine; the one out on Trinity Lane is the mother-ship and deserves respect; a new one on Charlotte Avenue make great bbq too.
  - [Butchertown Hall][butchertown] -- Solid beer selection, nice ambience, good place to hang out and eat meats and drank :beers:.
  - [Hog Heaven][hogheaven] -- solid local bbq next door to the Springwater Supper Club (see Drinking), looks like deserves to be right next door to the Springwater; check the hours
- - both [The Gerst Haus][gerst] and ~~[Vienerfest][vienerfest] (not kidding)~~ have solid German food and beers
- - [the Hermitage Cafe][hermitagecafe] -- late night shithole for when you're trying to not go home yet
+ - ~~both [The Gerst Haus][gerst] and ~~[Vienerfest][vienerfest] (not kidding)~~ have solid German food and beers~~
+ - ~~[the Hermitage Cafe][hermitagecafe] -- late night shithole for when you're trying to not go home yet~~
  - [Mary's Open Pit BBQ][marysbbq] -- worth stopping if you're in on Jefferson Street
- - I'm sorry to inform that "The Crunkest Fish in Town" (aka Eastside Fish) has apparently closed, though we should double-check, as the rumor mill indicated a non-zero chance of re-opening at some point.
+ - I'm sorry to inform that "The Crunkest Fish in Town" (aka Eastside Fish) has apparently closed, ~~though we should double-check, as the rumor mill indicated a non-zero chance of re-opening at some point.~~
  - [Urban Grub][urbangrub] -- good cocktails, slightly better than average food; a nice joint
  - [Burger Up][burgerup] -- (12South) lots of different kinds of burgers and in a nice atmosphere -- now a second location in Five Points (east nashville)
  - [Edly's BBQ][edlysbbq] -- solid 12South-area bbq joint; newer and less gritty than one might expect from good BBQ but the food is solid - Locations now in East Nashville and Sylvan Park
@@ -157,7 +158,7 @@ Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and
 #### Drinking
 
  - The [Patterson House][pattersonhouse] -- speakeasy-style cocktail bar; hard to find (right next to [the catbird seat][catbird]) but definitely satisfies; eat beforehand
- - [The Holland House][hollandhouse] -- East Nashville less-hard-to-find cocktail bar, with decent food
+ - ~~[The Holland House][hollandhouse] -- East Nashville less-hard-to-find cocktail bar, with decent food~~
  - [Mickey's Tavern][mickeystavern] -- hole-in-the-wall -ish East Nashville venue
  - ~~[The Stone Fox][stonefox] ([music calendar][stonefoxcal])-- westside drinking and food establishment -- the [March 2014 Drinkup](https://github.com/blog/1798-nashville-training-and-drinkup) venue (ping @rick if you go there -- you can park and/or sleep in his yard)~~. Closed in Feb 2016. 
  - [Betty's][bettys] -- West-side. during the day this is a 70's era truck-driver / burned out West Nashville hag bar; cigarettes hanging off lower lips. At night it's usually punk kids and noise bands. Don't expect craft beers. Has a nice little enclosed outdoor nook; if you need to roll one, pull the plate out from under the back picnic table.
@@ -168,7 +169,7 @@ Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and
  - there are a number of local micro- and otherwise-breweries that have taprooms or brewpubs: [Black Abbey][blackabbey], [Tennessee Brew Works][tnbrew], [blackstone][blackstone], [yazoo][yazoo], ~~[bosco's][boscos]~~ (closed :cry:), [jackalope][jackalope], Fat Bottom, etc. -- probably recommended in my decreasing order of opinion of beer quality there
  - [Brown's Diner][brownsdiner] -- yeah, you could eat there, but mostly it's a dive that exists because of atmosphere, also good live music
  - there are a ton of bars in East Nashville (Nashville's answer to Williamsburg, with numerous transplants therefrom); ping us if you're headed to the east side of the river ([Holland House][hollandhouse], [Family Wash][familywash], [the 5 Spot][5spot] ([calendar][5spotcal]), hell, I don't even know where the cool kids go any more, but some of our crew know...)
- - [East Nashville Beer Works][eastnashbeerworks] -- Nashville's own rimboy brewing at last. Beer mecca, tasty pizza, arepas, and other tasty food.
+ - ~~[East Nashville Beer Works][eastnashbeerworks] -- Nashville's own rimboy brewing at last. Beer mecca, tasty pizza, arepas, and other tasty food.~~ dead to us.
 
 **post-drinking**
  - [Recovery Room][hangover]: To relieve the negative effects of overindulgence.
@@ -300,3 +301,4 @@ Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and
 [treehousenashville]: (https://treehousenashville.com/)
 [marathon]: (https://www.marathonmusicworks.com/)
 [pepperfire]: (https://www.pepperfirehotchicken.com/)
+[twotenjack]: (https://twotenjack.com/)
