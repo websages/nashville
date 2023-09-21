@@ -7,7 +7,7 @@
 
 * Rick Bradley ([github](https://github.com/rick) - [twitter](https://twitter.com/rickbradley))
 * James Fryman ([github](https://github.com/jfryman) - [twitter](https://twitter.com/jfryman))
-* Aziz Shamim ([github](https://github.com/azizshamim) - [twitter](https://twitter.com/azizshamim))
+* Aziz Shamim ([github](https://github.com/azizshamim))
 * James White ([github](https://github.com/jameswhite) - [twitter](https://twitter.com/james_s_white))
 
 #### Tips
