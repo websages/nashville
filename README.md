@@ -10,8 +10,6 @@
 * Aziz Shamim ([github](https://github.com/azizshamim) - [twitter](https://twitter.com/azizshamim))
 * James White ([github](https://github.com/jameswhite) - [twitter](https://twitter.com/james_s_white))
 
-Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and central to many things you'd find yourself wanting to do. Come visit anytime. Here you'll find everything you need to get work done, have a central place to meet-up, and interact with some cool new friends.
-
 #### Tips
 
  * Grab a free copy of the [Nashville Scene][nashvillescene] for more info on this week's haps and other recommendations that I'm totally forgetting.  Gosh, there's also an [Eash Nashvillian][eastnashvillian] you can grab too.
