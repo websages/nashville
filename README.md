@@ -56,12 +56,13 @@
 
 #### (non-fancy)
 
+ - [Assembly Food Hall](https://www.assemblyfoodhall.com/) - Nashville's Largest Rooftop 30+ Eateries & Bars, 3 Stages
  - [Hattie B's][hattiebs] -- Hot Chicken.  You might have to wait, but it's worth it.  Near [J-J's][jjs] & [The Broadway Brewhouse][broadwaybrewhouse].  **update**: There's a second location now on the west si-ide: [map](https://goo.gl/maps/PxBwL) and also a location now off 8th Ave in Melrose [map](https://goo.gl/maps/zXvjM53SxSE2)
  - [Monell's][monells] -- all-you-can-eat family-style Southern food, sitting with strangers at big tables passing food.  Excellent food, pretty cheap, you will not leave hungry.  Great idea for a weekday lunch.  Gets busy for dinner and really busy the weekends
  - [Jeni's Ice Cream][jenisicecream] -- east-side, deemed some of the best ice cream in America by various reckoners; this is the sibling of the original Columbus establishment.  There's a coffee shop ([Ugly Mugs][uglymugs]) right next door, so that's cool.
  - [Mayo's Fried Pies and Mahalia Jackson's Chicken](http://www.southernfoodways.org/interview/mayos-fried-pies-and-mahalia-jacksons-chicken/) -- for real. As I understand it, he actually bought the name rights from the restaurant back when it went under.  It's a little mobile-looking shack down near the interstate on Jefferson Street.  We should probably go if we can discern when it's open.  [yelp](http://www.yelp.com/biz/mayos-mahalia-chicken-outlet-nashville)
  - [the Pharmacy][thepharmacy] -- German style "wurst-burger" place, good German beers, great for lunch, on the east-side.
- - [Mas Tacos][mastacos] -- amazing taco-foods, try the tortilla soup (even you fucking SF hipsters will enjoy this jawn, promise).  Cash-only, on the east-side.
+ - [Mas Tacos][mastacos] -- amazing taco-foods, try the tortilla soup (even you fucking SF hipsters will enjoy this jawn, promise).  on the east-side.
  - [Peg Leg Porker][peglegporker] -- some pretty amazing BBQ; including dry ribs, wet ribs, fried pies, etc. Good local craft beers on draught. [yelp][porkeryelp]
  - [the Loveless Cafe][loveless] -- you'll need to drive to get there; southern food; this used to be the best southern food in the whole fucking world; it's still got game and worth a visit, but its powers have diminished over the years; basically impossible to get in on weekends, so if you go, shoot for breakfast/brunch/lunch, maybe dinner on a weekday
  - [Pancake Pantry][pancakepantry] -- good for breakfast; lines around the block on weekends, some weekdays
